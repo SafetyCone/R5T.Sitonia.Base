@@ -1,0 +1,4 @@
+R5T.Sitonia.Base.Construction - A construction console-app for the library R5T.Sitonia.Base.
+
+Goals
+
