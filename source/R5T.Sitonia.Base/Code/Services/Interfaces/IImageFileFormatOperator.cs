@@ -13,6 +13,8 @@ namespace R5T.Sitonia
     /// </summary>
     public interface IImageFileFormatOperator
     {
+        string GetFileExtension(FileFormat fileFormat);
+
         FileFormat GetFileFormat(FilePath imageFilePath);
     }
 }
